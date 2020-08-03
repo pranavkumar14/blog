@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My First Post"
-date:   2020-08-03 22:59:44 +0530
+date:   2020-08-04 04:38:44 +0530
 categories: jekyll update
 author: "Pranav Kumar"
 ---
