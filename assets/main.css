@@ -1,5 +1,5 @@
 
-@import "{{ site.theme }}";
+
 
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
@@ -280,8 +280,17 @@ table td { border: 1px solid #e8e8e8; }
 /*# sourceMappingURL=main.css.map */
 
 .site-header{
-    background-color: black;
+    background-image: linear-gradient(rgba(12, 12, 12, 0.822), rgb(8, 8, 8));
+    padding: 1.2rem;
+
 }
 .site-title{
     color: red   !important;
+    font-size: 3.0rem;
+    letter-spacing: -0.2rem;
+    font-weight: bolder;
+}
+.trigger a{
+    color: red !important;
+    font-size: 2.0rem;
 }
